@@ -36,6 +36,6 @@
     "prop-types": "^15.5.10"
   },
   "peerDependencies": {
-    "react-native-webview": "^7.5.2"   
+    "react-native-webview": "^10.5.0"   
   }
 }
